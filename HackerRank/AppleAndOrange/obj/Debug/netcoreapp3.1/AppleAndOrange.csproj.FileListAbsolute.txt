@@ -1,0 +1,12 @@
+C:\Users\yaman\source\repos\HackerRank\AppleAndOrange\bin\Debug\netcoreapp3.1\AppleAndOrange.exe
+C:\Users\yaman\source\repos\HackerRank\AppleAndOrange\bin\Debug\netcoreapp3.1\AppleAndOrange.deps.json
+C:\Users\yaman\source\repos\HackerRank\AppleAndOrange\bin\Debug\netcoreapp3.1\AppleAndOrange.runtimeconfig.json
+C:\Users\yaman\source\repos\HackerRank\AppleAndOrange\bin\Debug\netcoreapp3.1\AppleAndOrange.runtimeconfig.dev.json
+C:\Users\yaman\source\repos\HackerRank\AppleAndOrange\bin\Debug\netcoreapp3.1\AppleAndOrange.dll
+C:\Users\yaman\source\repos\HackerRank\AppleAndOrange\bin\Debug\netcoreapp3.1\AppleAndOrange.pdb
+C:\Users\yaman\source\repos\HackerRank\AppleAndOrange\obj\Debug\netcoreapp3.1\AppleAndOrange.AssemblyInfoInputs.cache
+C:\Users\yaman\source\repos\HackerRank\AppleAndOrange\obj\Debug\netcoreapp3.1\AppleAndOrange.AssemblyInfo.cs
+C:\Users\yaman\source\repos\HackerRank\AppleAndOrange\obj\Debug\netcoreapp3.1\AppleAndOrange.csproj.CoreCompileInputs.cache
+C:\Users\yaman\source\repos\HackerRank\AppleAndOrange\obj\Debug\netcoreapp3.1\AppleAndOrange.dll
+C:\Users\yaman\source\repos\HackerRank\AppleAndOrange\obj\Debug\netcoreapp3.1\AppleAndOrange.pdb
+C:\Users\yaman\source\repos\HackerRank\AppleAndOrange\obj\Debug\netcoreapp3.1\AppleAndOrange.genruntimeconfig.cache
