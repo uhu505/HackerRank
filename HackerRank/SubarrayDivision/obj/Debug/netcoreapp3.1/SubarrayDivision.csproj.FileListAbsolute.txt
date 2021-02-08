@@ -1,0 +1,13 @@
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\SubarrayDivision\bin\Debug\netcoreapp3.1\SubarrayDivision.exe
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\SubarrayDivision\bin\Debug\netcoreapp3.1\SubarrayDivision.deps.json
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\SubarrayDivision\bin\Debug\netcoreapp3.1\SubarrayDivision.runtimeconfig.json
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\SubarrayDivision\bin\Debug\netcoreapp3.1\SubarrayDivision.runtimeconfig.dev.json
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\SubarrayDivision\bin\Debug\netcoreapp3.1\SubarrayDivision.dll
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\SubarrayDivision\bin\Debug\netcoreapp3.1\SubarrayDivision.pdb
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\SubarrayDivision\obj\Debug\netcoreapp3.1\SubarrayDivision.csprojAssemblyReference.cache
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\SubarrayDivision\obj\Debug\netcoreapp3.1\SubarrayDivision.AssemblyInfoInputs.cache
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\SubarrayDivision\obj\Debug\netcoreapp3.1\SubarrayDivision.AssemblyInfo.cs
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\SubarrayDivision\obj\Debug\netcoreapp3.1\SubarrayDivision.csproj.CoreCompileInputs.cache
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\SubarrayDivision\obj\Debug\netcoreapp3.1\SubarrayDivision.dll
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\SubarrayDivision\obj\Debug\netcoreapp3.1\SubarrayDivision.pdb
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\SubarrayDivision\obj\Debug\netcoreapp3.1\SubarrayDivision.genruntimeconfig.cache
