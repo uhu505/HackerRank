@@ -1,0 +1,13 @@
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\BetweenTwoSets\bin\Debug\netcoreapp3.1\BetweenTwoSets.exe
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\BetweenTwoSets\bin\Debug\netcoreapp3.1\BetweenTwoSets.deps.json
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\BetweenTwoSets\bin\Debug\netcoreapp3.1\BetweenTwoSets.runtimeconfig.json
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\BetweenTwoSets\bin\Debug\netcoreapp3.1\BetweenTwoSets.runtimeconfig.dev.json
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\BetweenTwoSets\bin\Debug\netcoreapp3.1\BetweenTwoSets.dll
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\BetweenTwoSets\bin\Debug\netcoreapp3.1\BetweenTwoSets.pdb
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\BetweenTwoSets\obj\Debug\netcoreapp3.1\BetweenTwoSets.csprojAssemblyReference.cache
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\BetweenTwoSets\obj\Debug\netcoreapp3.1\BetweenTwoSets.AssemblyInfoInputs.cache
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\BetweenTwoSets\obj\Debug\netcoreapp3.1\BetweenTwoSets.AssemblyInfo.cs
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\BetweenTwoSets\obj\Debug\netcoreapp3.1\BetweenTwoSets.csproj.CoreCompileInputs.cache
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\BetweenTwoSets\obj\Debug\netcoreapp3.1\BetweenTwoSets.dll
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\BetweenTwoSets\obj\Debug\netcoreapp3.1\BetweenTwoSets.pdb
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\BetweenTwoSets\obj\Debug\netcoreapp3.1\BetweenTwoSets.genruntimeconfig.cache
