@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppleAndOrange", "AppleAndOrange\AppleAndOrange.csproj", "{AD5159D9-1635-42CE-9552-C1C736DEDF7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradingStudents", "GradingStudents\GradingStudents.csproj", "{C8B4B20E-FFAB-466D-AE33-9F249C906588}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradingStudents", "GradingStudents\GradingStudents.csproj", "{C8B4B20E-FFAB-466D-AE33-9F249C906588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberLineJumps", "NumberLineJumps\NumberLineJumps.csproj", "{DBDB1930-CF13-4729-B0C9-DB9E78226E38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C8B4B20E-FFAB-466D-AE33-9F249C906588}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8B4B20E-FFAB-466D-AE33-9F249C906588}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8B4B20E-FFAB-466D-AE33-9F249C906588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBDB1930-CF13-4729-B0C9-DB9E78226E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDB1930-CF13-4729-B0C9-DB9E78226E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDB1930-CF13-4729-B0C9-DB9E78226E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDB1930-CF13-4729-B0C9-DB9E78226E38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

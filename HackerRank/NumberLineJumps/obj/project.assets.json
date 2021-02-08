@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\GradingStudents\\GradingStudents.csproj",
-      "projectName": "GradingStudents",
-      "projectPath": "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\GradingStudents\\GradingStudents.csproj",
+      "projectUniqueName": "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\NumberLineJumps\\NumberLineJumps.csproj",
+      "projectName": "NumberLineJumps",
+      "projectPath": "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\NumberLineJumps\\NumberLineJumps.csproj",
       "packagesPath": "C:\\Users\\yaman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\GradingStudents\\obj\\",
+      "outputPath": "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\NumberLineJumps\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

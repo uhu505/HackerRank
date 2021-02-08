@@ -1,0 +1,13 @@
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\NumberLineJumps\bin\Debug\netcoreapp3.1\NumberLineJumps.exe
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\NumberLineJumps\bin\Debug\netcoreapp3.1\NumberLineJumps.deps.json
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\NumberLineJumps\bin\Debug\netcoreapp3.1\NumberLineJumps.runtimeconfig.json
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\NumberLineJumps\bin\Debug\netcoreapp3.1\NumberLineJumps.runtimeconfig.dev.json
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\NumberLineJumps\bin\Debug\netcoreapp3.1\NumberLineJumps.dll
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\NumberLineJumps\bin\Debug\netcoreapp3.1\NumberLineJumps.pdb
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\NumberLineJumps\obj\Debug\netcoreapp3.1\NumberLineJumps.csprojAssemblyReference.cache
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\NumberLineJumps\obj\Debug\netcoreapp3.1\NumberLineJumps.AssemblyInfoInputs.cache
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\NumberLineJumps\obj\Debug\netcoreapp3.1\NumberLineJumps.AssemblyInfo.cs
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\NumberLineJumps\obj\Debug\netcoreapp3.1\NumberLineJumps.csproj.CoreCompileInputs.cache
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\NumberLineJumps\obj\Debug\netcoreapp3.1\NumberLineJumps.dll
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\NumberLineJumps\obj\Debug\netcoreapp3.1\NumberLineJumps.pdb
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\NumberLineJumps\obj\Debug\netcoreapp3.1\NumberLineJumps.genruntimeconfig.cache

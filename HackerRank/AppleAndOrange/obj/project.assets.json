@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yaman\\source\\repos\\HackerRank\\AppleAndOrange\\AppleAndOrange.csproj",
+      "projectUniqueName": "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\AppleAndOrange\\AppleAndOrange.csproj",
       "projectName": "AppleAndOrange",
-      "projectPath": "C:\\Users\\yaman\\source\\repos\\HackerRank\\AppleAndOrange\\AppleAndOrange.csproj",
+      "projectPath": "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\AppleAndOrange\\AppleAndOrange.csproj",
       "packagesPath": "C:\\Users\\yaman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yaman\\source\\repos\\HackerRank\\AppleAndOrange\\obj\\",
+      "outputPath": "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\AppleAndOrange\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
