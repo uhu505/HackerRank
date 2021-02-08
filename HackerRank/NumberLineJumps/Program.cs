@@ -7,9 +7,11 @@ namespace NumberLineJumps
     {
         private static void Main()
         {                              // x1 - v1 / x2 - v2
-            // string result1 = Kangaroo(1817, 9931, 8417, 190);
-            //string result2 = Kangaroo(0, 2, 5, 3);
+            string result1 = Kangaroo(1817, 9931, 8417, 190);
+            string result2 = Kangaroo(0, 2, 5, 3);
             string result3 = Kangaroo(0, 3, 4, 2);
+            Console.WriteLine(result1);
+            Console.WriteLine(result2);
             Console.WriteLine(result3);
             Console.ReadLine();
         }
