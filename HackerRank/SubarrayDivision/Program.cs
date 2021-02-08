@@ -21,12 +21,12 @@ namespace SubarrayDivision
             if (listLength == 1) a = 1;
             numbers = new int[listLength - 1 + a];
 
-            ListWander(s, d, m, numbers, listLength);
+            ListWander(s, m, numbers, listLength);
 
             return LastControl(numbers, d);
         }
 
-        private static void ListWander(List<int> s, int d, int m, int[] numbers, int listLength)
+        private static void ListWander(List<int> s, int m, int[] numbers, int listLength)
         {
             for (int i = 0; i < listLength; i++)
             {
