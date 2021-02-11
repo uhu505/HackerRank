@@ -1,0 +1,13 @@
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\SalesByMatch\bin\Debug\netcoreapp3.1\SalesByMatch.exe
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\SalesByMatch\bin\Debug\netcoreapp3.1\SalesByMatch.deps.json
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\SalesByMatch\bin\Debug\netcoreapp3.1\SalesByMatch.runtimeconfig.json
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\SalesByMatch\bin\Debug\netcoreapp3.1\SalesByMatch.runtimeconfig.dev.json
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\SalesByMatch\bin\Debug\netcoreapp3.1\SalesByMatch.dll
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\SalesByMatch\bin\Debug\netcoreapp3.1\SalesByMatch.pdb
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\SalesByMatch\obj\Debug\netcoreapp3.1\SalesByMatch.csprojAssemblyReference.cache
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\SalesByMatch\obj\Debug\netcoreapp3.1\SalesByMatch.AssemblyInfoInputs.cache
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\SalesByMatch\obj\Debug\netcoreapp3.1\SalesByMatch.AssemblyInfo.cs
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\SalesByMatch\obj\Debug\netcoreapp3.1\SalesByMatch.csproj.CoreCompileInputs.cache
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\SalesByMatch\obj\Debug\netcoreapp3.1\SalesByMatch.dll
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\SalesByMatch\obj\Debug\netcoreapp3.1\SalesByMatch.pdb
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\SalesByMatch\obj\Debug\netcoreapp3.1\SalesByMatch.genruntimeconfig.cache
