@@ -1,0 +1,13 @@
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\BillDivision\bin\Debug\netcoreapp3.1\BillDivision.exe
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\BillDivision\bin\Debug\netcoreapp3.1\BillDivision.deps.json
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\BillDivision\bin\Debug\netcoreapp3.1\BillDivision.runtimeconfig.json
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\BillDivision\bin\Debug\netcoreapp3.1\BillDivision.runtimeconfig.dev.json
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\BillDivision\bin\Debug\netcoreapp3.1\BillDivision.dll
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\BillDivision\bin\Debug\netcoreapp3.1\BillDivision.pdb
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\BillDivision\obj\Debug\netcoreapp3.1\BillDivision.AssemblyInfoInputs.cache
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\BillDivision\obj\Debug\netcoreapp3.1\BillDivision.AssemblyInfo.cs
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\BillDivision\obj\Debug\netcoreapp3.1\BillDivision.csproj.CoreCompileInputs.cache
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\BillDivision\obj\Debug\netcoreapp3.1\BillDivision.dll
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\BillDivision\obj\Debug\netcoreapp3.1\BillDivision.pdb
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\BillDivision\obj\Debug\netcoreapp3.1\BillDivision.genruntimeconfig.cache
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\BillDivision\obj\Debug\netcoreapp3.1\BillDivision.csprojAssemblyReference.cache

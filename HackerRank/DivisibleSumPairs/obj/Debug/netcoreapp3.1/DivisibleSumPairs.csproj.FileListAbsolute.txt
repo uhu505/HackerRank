@@ -11,3 +11,16 @@ C:\Users\yaman\source\repos\hackerrankBase\HackerRank\DivisibleSumPairs\obj\Debu
 C:\Users\yaman\source\repos\hackerrankBase\HackerRank\DivisibleSumPairs\obj\Debug\netcoreapp3.1\DivisibleSumPairs.pdb
 C:\Users\yaman\source\repos\hackerrankBase\HackerRank\DivisibleSumPairs\obj\Debug\netcoreapp3.1\DivisibleSumPairs.genruntimeconfig.cache
 C:\Users\yaman\source\repos\hackerrankBase\HackerRank\DivisibleSumPairs\obj\Debug\netcoreapp3.1\DivisibleSumPairs.csprojAssemblyReference.cache
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\DivisibleSumPairs\bin\Debug\netcoreapp3.1\DivisibleSumPairs.exe
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\DivisibleSumPairs\bin\Debug\netcoreapp3.1\DivisibleSumPairs.deps.json
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\DivisibleSumPairs\bin\Debug\netcoreapp3.1\DivisibleSumPairs.runtimeconfig.json
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\DivisibleSumPairs\bin\Debug\netcoreapp3.1\DivisibleSumPairs.runtimeconfig.dev.json
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\DivisibleSumPairs\bin\Debug\netcoreapp3.1\DivisibleSumPairs.dll
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\DivisibleSumPairs\bin\Debug\netcoreapp3.1\DivisibleSumPairs.pdb
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\DivisibleSumPairs\obj\Debug\netcoreapp3.1\DivisibleSumPairs.csprojAssemblyReference.cache
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\DivisibleSumPairs\obj\Debug\netcoreapp3.1\DivisibleSumPairs.AssemblyInfoInputs.cache
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\DivisibleSumPairs\obj\Debug\netcoreapp3.1\DivisibleSumPairs.AssemblyInfo.cs
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\DivisibleSumPairs\obj\Debug\netcoreapp3.1\DivisibleSumPairs.csproj.CoreCompileInputs.cache
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\DivisibleSumPairs\obj\Debug\netcoreapp3.1\DivisibleSumPairs.dll
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\DivisibleSumPairs\obj\Debug\netcoreapp3.1\DivisibleSumPairs.pdb
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\DivisibleSumPairs\obj\Debug\netcoreapp3.1\DivisibleSumPairs.genruntimeconfig.cache

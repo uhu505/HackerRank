@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubarrayDivision", "Subarra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivisibleSumPairs", "DivisibleSumPairs\DivisibleSumPairs.csproj", "{8A9F02EB-2F18-4549-A392-D422A2E2BA9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigratoryBirds", "MigratoryBirds\MigratoryBirds.csproj", "{BC8D5D10-566E-4A0C-8BED-DEBBC84465E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MigratoryBirds", "MigratoryBirds\MigratoryBirds.csproj", "{BC8D5D10-566E-4A0C-8BED-DEBBC84465E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillDivision", "BillDivision\BillDivision.csproj", "{7C0A8CCD-F733-41C3-B8D7-5EF67E0EB257}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{BC8D5D10-566E-4A0C-8BED-DEBBC84465E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC8D5D10-566E-4A0C-8BED-DEBBC84465E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC8D5D10-566E-4A0C-8BED-DEBBC84465E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C0A8CCD-F733-41C3-B8D7-5EF67E0EB257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C0A8CCD-F733-41C3-B8D7-5EF67E0EB257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C0A8CCD-F733-41C3-B8D7-5EF67E0EB257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0A8CCD-F733-41C3-B8D7-5EF67E0EB257}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
