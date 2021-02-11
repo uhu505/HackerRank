@@ -17,4 +17,3 @@ tree's left, and a positive value of d means it falls d units to the tree's righ
 
 Given the value of d for m apples and n oranges,determine how many apples and oranges 
 will fall on Sam's house (i.e., in the inclusive range [s, t])?
-https://www.hackerrank.com/challenges/apple-and-orange/problem

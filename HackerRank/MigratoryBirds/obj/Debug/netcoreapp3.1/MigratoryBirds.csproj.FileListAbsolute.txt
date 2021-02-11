@@ -1,0 +1,13 @@
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\MigratoryBirds\bin\Debug\netcoreapp3.1\MigratoryBirds.exe
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\MigratoryBirds\bin\Debug\netcoreapp3.1\MigratoryBirds.deps.json
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\MigratoryBirds\bin\Debug\netcoreapp3.1\MigratoryBirds.runtimeconfig.json
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\MigratoryBirds\bin\Debug\netcoreapp3.1\MigratoryBirds.runtimeconfig.dev.json
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\MigratoryBirds\bin\Debug\netcoreapp3.1\MigratoryBirds.dll
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\MigratoryBirds\bin\Debug\netcoreapp3.1\MigratoryBirds.pdb
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\MigratoryBirds\obj\Debug\netcoreapp3.1\MigratoryBirds.AssemblyInfoInputs.cache
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\MigratoryBirds\obj\Debug\netcoreapp3.1\MigratoryBirds.AssemblyInfo.cs
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\MigratoryBirds\obj\Debug\netcoreapp3.1\MigratoryBirds.csproj.CoreCompileInputs.cache
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\MigratoryBirds\obj\Debug\netcoreapp3.1\MigratoryBirds.dll
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\MigratoryBirds\obj\Debug\netcoreapp3.1\MigratoryBirds.pdb
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\MigratoryBirds\obj\Debug\netcoreapp3.1\MigratoryBirds.genruntimeconfig.cache
+C:\Users\yaman\source\repos\hackerrankBase\HackerRank\MigratoryBirds\obj\Debug\netcoreapp3.1\MigratoryBirds.csprojAssemblyReference.cache

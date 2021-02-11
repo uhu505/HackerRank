@@ -22,7 +22,6 @@ namespace DivisibleSumPairs
                     if ((ar[i] + ar[j]) % k == 0)
                     {
                         count++;
-                        Console.WriteLine(ar[i] + " + " + ar[j]);
                     }
                 }
             }

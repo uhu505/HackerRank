@@ -7,13 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppleAndOrange", "AppleAndO
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradingStudents", "GradingStudents\GradingStudents.csproj", "{C8B4B20E-FFAB-466D-AE33-9F249C906588}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberLineJumps", "NumberLineJumps\NumberLineJumps.csproj", "{DBDB1930-CF13-4729-B0C9-DB9E78226E38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberLineJumps", "NumberLineJumps\NumberLineJumps.csproj", "{DBDB1930-CF13-4729-B0C9-DB9E78226E38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetweenTwoSets", "BetweenTwoSets\BetweenTwoSets.csproj", "{C9BC721D-BC82-4302-A33F-DAD8EC5E4418}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BetweenTwoSets", "BetweenTwoSets\BetweenTwoSets.csproj", "{C9BC721D-BC82-4302-A33F-DAD8EC5E4418}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubarrayDivision", "SubarrayDivision\SubarrayDivision.csproj", "{D4280A5D-EE5D-40AF-8FBB-C4E4FE432C00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubarrayDivision", "SubarrayDivision\SubarrayDivision.csproj", "{D4280A5D-EE5D-40AF-8FBB-C4E4FE432C00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisibleSumPairs", "DivisibleSumPairs\DivisibleSumPairs.csproj", "{8A9F02EB-2F18-4549-A392-D422A2E2BA9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivisibleSumPairs", "DivisibleSumPairs\DivisibleSumPairs.csproj", "{8A9F02EB-2F18-4549-A392-D422A2E2BA9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigratoryBirds", "MigratoryBirds\MigratoryBirds.csproj", "{BC8D5D10-566E-4A0C-8BED-DEBBC84465E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{8A9F02EB-2F18-4549-A392-D422A2E2BA9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A9F02EB-2F18-4549-A392-D422A2E2BA9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A9F02EB-2F18-4549-A392-D422A2E2BA9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC8D5D10-566E-4A0C-8BED-DEBBC84465E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC8D5D10-566E-4A0C-8BED-DEBBC84465E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC8D5D10-566E-4A0C-8BED-DEBBC84465E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC8D5D10-566E-4A0C-8BED-DEBBC84465E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
