@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\DivisibleSumPairs\\DivisibleSumPairs.csproj",
+      "projectUniqueName": "C:\\Users\\yaman\\OneDrive\\Belgeler\\GitHub\\HackerRank\\HackerRank\\DivisibleSumPairs\\DivisibleSumPairs.csproj",
       "projectName": "DivisibleSumPairs",
-      "projectPath": "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\DivisibleSumPairs\\DivisibleSumPairs.csproj",
+      "projectPath": "C:\\Users\\yaman\\OneDrive\\Belgeler\\GitHub\\HackerRank\\HackerRank\\DivisibleSumPairs\\DivisibleSumPairs.csproj",
       "packagesPath": "C:\\Users\\yaman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\DivisibleSumPairs\\obj\\",
+      "outputPath": "C:\\Users\\yaman\\OneDrive\\Belgeler\\GitHub\\HackerRank\\HackerRank\\DivisibleSumPairs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

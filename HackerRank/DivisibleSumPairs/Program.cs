@@ -12,6 +12,7 @@ namespace DivisibleSumPairs
             Console.ReadLine();
         }
 
+        //
         private static int DivisibleSumPairs(int n, int k, int[] ar)
         {
             int count = 0;

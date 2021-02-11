@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\MigratoryBirds\\MigratoryBirds.csproj": {}
+    "C:\\Users\\yaman\\OneDrive\\Belgeler\\GitHub\\HackerRank\\HackerRank\\MigratoryBirds\\MigratoryBirds.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\MigratoryBirds\\MigratoryBirds.csproj": {
+    "C:\\Users\\yaman\\OneDrive\\Belgeler\\GitHub\\HackerRank\\HackerRank\\MigratoryBirds\\MigratoryBirds.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\MigratoryBirds\\MigratoryBirds.csproj",
+        "projectUniqueName": "C:\\Users\\yaman\\OneDrive\\Belgeler\\GitHub\\HackerRank\\HackerRank\\MigratoryBirds\\MigratoryBirds.csproj",
         "projectName": "MigratoryBirds",
-        "projectPath": "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\MigratoryBirds\\MigratoryBirds.csproj",
+        "projectPath": "C:\\Users\\yaman\\OneDrive\\Belgeler\\GitHub\\HackerRank\\HackerRank\\MigratoryBirds\\MigratoryBirds.csproj",
         "packagesPath": "C:\\Users\\yaman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\MigratoryBirds\\obj\\",
+        "outputPath": "C:\\Users\\yaman\\OneDrive\\Belgeler\\GitHub\\HackerRank\\HackerRank\\MigratoryBirds\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

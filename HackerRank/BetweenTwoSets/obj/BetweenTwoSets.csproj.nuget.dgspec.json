@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\BetweenTwoSets\\BetweenTwoSets.csproj": {}
+    "C:\\Users\\yaman\\OneDrive\\Belgeler\\GitHub\\HackerRank\\HackerRank\\BetweenTwoSets\\BetweenTwoSets.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\BetweenTwoSets\\BetweenTwoSets.csproj": {
+    "C:\\Users\\yaman\\OneDrive\\Belgeler\\GitHub\\HackerRank\\HackerRank\\BetweenTwoSets\\BetweenTwoSets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\BetweenTwoSets\\BetweenTwoSets.csproj",
+        "projectUniqueName": "C:\\Users\\yaman\\OneDrive\\Belgeler\\GitHub\\HackerRank\\HackerRank\\BetweenTwoSets\\BetweenTwoSets.csproj",
         "projectName": "BetweenTwoSets",
-        "projectPath": "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\BetweenTwoSets\\BetweenTwoSets.csproj",
+        "projectPath": "C:\\Users\\yaman\\OneDrive\\Belgeler\\GitHub\\HackerRank\\HackerRank\\BetweenTwoSets\\BetweenTwoSets.csproj",
         "packagesPath": "C:\\Users\\yaman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\BetweenTwoSets\\obj\\",
+        "outputPath": "C:\\Users\\yaman\\OneDrive\\Belgeler\\GitHub\\HackerRank\\HackerRank\\BetweenTwoSets\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

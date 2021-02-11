@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\AppleAndOrange\\AppleAndOrange.csproj": {}
+    "C:\\Users\\yaman\\OneDrive\\Belgeler\\GitHub\\HackerRank\\HackerRank\\AppleAndOrange\\AppleAndOrange.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\AppleAndOrange\\AppleAndOrange.csproj": {
+    "C:\\Users\\yaman\\OneDrive\\Belgeler\\GitHub\\HackerRank\\HackerRank\\AppleAndOrange\\AppleAndOrange.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\AppleAndOrange\\AppleAndOrange.csproj",
+        "projectUniqueName": "C:\\Users\\yaman\\OneDrive\\Belgeler\\GitHub\\HackerRank\\HackerRank\\AppleAndOrange\\AppleAndOrange.csproj",
         "projectName": "AppleAndOrange",
-        "projectPath": "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\AppleAndOrange\\AppleAndOrange.csproj",
+        "projectPath": "C:\\Users\\yaman\\OneDrive\\Belgeler\\GitHub\\HackerRank\\HackerRank\\AppleAndOrange\\AppleAndOrange.csproj",
         "packagesPath": "C:\\Users\\yaman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yaman\\source\\repos\\hackerrankBase\\HackerRank\\AppleAndOrange\\obj\\",
+        "outputPath": "C:\\Users\\yaman\\OneDrive\\Belgeler\\GitHub\\HackerRank\\HackerRank\\AppleAndOrange\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
