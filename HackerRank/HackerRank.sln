@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivisibleSumPairs", "Divisi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MigratoryBirds", "MigratoryBirds\MigratoryBirds.csproj", "{BC8D5D10-566E-4A0C-8BED-DEBBC84465E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillDivision", "BillDivision\BillDivision.csproj", "{7C0A8CCD-F733-41C3-B8D7-5EF67E0EB257}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BillDivision", "BillDivision\BillDivision.csproj", "{7C0A8CCD-F733-41C3-B8D7-5EF67E0EB257}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesByMatch", "SalesByMatch\SalesByMatch.csproj", "{80D0BD80-801F-4175-969F-7BAFDFFC66B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalesByMatch", "SalesByMatch\SalesByMatch.csproj", "{80D0BD80-801F-4175-969F-7BAFDFFC66B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawingBook", "DrawingBook\DrawingBook.csproj", "{C285EA8E-7302-4A12-9429-15A3D4419F3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{80D0BD80-801F-4175-969F-7BAFDFFC66B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80D0BD80-801F-4175-969F-7BAFDFFC66B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80D0BD80-801F-4175-969F-7BAFDFFC66B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C285EA8E-7302-4A12-9429-15A3D4419F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C285EA8E-7302-4A12-9429-15A3D4419F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C285EA8E-7302-4A12-9429-15A3D4419F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C285EA8E-7302-4A12-9429-15A3D4419F3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,13 @@
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\DrawingBook\bin\Debug\netcoreapp3.1\DrawingBook.exe
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\DrawingBook\bin\Debug\netcoreapp3.1\DrawingBook.deps.json
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\DrawingBook\bin\Debug\netcoreapp3.1\DrawingBook.runtimeconfig.json
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\DrawingBook\bin\Debug\netcoreapp3.1\DrawingBook.runtimeconfig.dev.json
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\DrawingBook\bin\Debug\netcoreapp3.1\DrawingBook.dll
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\DrawingBook\bin\Debug\netcoreapp3.1\DrawingBook.pdb
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\DrawingBook\obj\Debug\netcoreapp3.1\DrawingBook.csprojAssemblyReference.cache
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\DrawingBook\obj\Debug\netcoreapp3.1\DrawingBook.AssemblyInfoInputs.cache
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\DrawingBook\obj\Debug\netcoreapp3.1\DrawingBook.AssemblyInfo.cs
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\DrawingBook\obj\Debug\netcoreapp3.1\DrawingBook.csproj.CoreCompileInputs.cache
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\DrawingBook\obj\Debug\netcoreapp3.1\DrawingBook.dll
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\DrawingBook\obj\Debug\netcoreapp3.1\DrawingBook.pdb
+C:\Users\yaman\OneDrive\Belgeler\GitHub\HackerRank\HackerRank\DrawingBook\obj\Debug\netcoreapp3.1\DrawingBook.genruntimeconfig.cache
