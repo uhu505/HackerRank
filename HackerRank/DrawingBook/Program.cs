@@ -16,8 +16,8 @@ namespace DrawingBook
 
         private static int PageCount(int n, int p)
         {
-            int Front = n / 2; //3
-            int FrontTurnCount = p / 2; //3
+            int Front = n / 2;
+            int FrontTurnCount = p / 2;
             int BackTurnCount = Front - FrontTurnCount;
             return Math.Min(FrontTurnCount, BackTurnCount);
         }
