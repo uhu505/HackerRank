@@ -30,7 +30,7 @@ namespace ElectronicsShop
                 FirstLoopControl(keyboards, drives, b, ref insufficientFunds, ref theMostExpensiveBase, ref theMostExpensive, i);
             }
 
-            return Result(insufficientFunds, theMostExpensive); ;
+            return Result(insufficientFunds, theMostExpensive);
         }
 
         private static void FirstLoopControl(int[] keyboards, int[] drives, int b, ref bool insufficientFunds, ref int theMostExpensiveBase, ref int theMostExpensive, int i)
